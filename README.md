@@ -1,5 +1,5 @@
 # KFC-web-scraping
-KFC Tunisia's website : https://kfc.com.tn/#wbProdCat-10_tab
+##1 KFC Tunisia's website : https://kfc.com.tn/#wbProdCat-10_tab
 #1st Step : import and install the needed librairies : 
 BeautifulSoup : !pip install BeautifulSoup
 from bs4 import BeautifulSoup
